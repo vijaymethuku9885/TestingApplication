@@ -1,2 +1,2 @@
 # TestingApplication
-Sample testing
+Print("Hello world)
